@@ -1,0 +1,5 @@
+p= int(input('p='))
+k= int(input('k='))
+d= float(input('d='))
+o=p*k*(1-d)
+print(o)
